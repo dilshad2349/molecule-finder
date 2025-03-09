@@ -1,0 +1,4 @@
+streamlit
+pubchempy
+wikipedia-api
+rdkit-pypi
